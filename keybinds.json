@@ -1,0 +1,41 @@
+[
+    {
+        "keybind": [
+            {
+                "key": 29,
+                "modifier": 0
+            },
+            {
+                "key": 105,
+                "modifier": 0
+            }
+        ],
+        "command": "playerctl previous"
+    },
+    {
+        "keybind": [
+            {
+                "key": 29,
+                "modifier": 0
+            },
+            {
+                "key": 106,
+                "modifier": 0
+            }
+        ],
+        "command": "playerctl next"
+    },
+    {
+        "keybind": [
+            {
+                "key": 29,
+                "modifier": 0
+            },
+            {
+                "key": 57,
+                "modifier": 0
+            }
+        ],
+        "command": "playerctl play-pause"
+    }
+]

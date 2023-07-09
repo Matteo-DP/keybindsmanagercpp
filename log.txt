@@ -1,0 +1,124 @@
+[*] 12:57:43 Cache has been reloaded
+[*] 12:57:43 Using device: /dev/input/event26
+[*] 12:57:43 Initialized libevdev on device: /dev/input/event26
+[*] 12:57:43 Listening for events
+[*] 12:57:43 Event: type 1, code 28, value 0
+[*] 12:57:44 Event: type 1, code 28, value 1
+[*] 12:57:44 Event: type 1, code 28, value 0
+[*] 12:57:45 Event: type 1, code 28, value 1
+[*] 12:57:45 Event: type 1, code 28, value 0
+[*] 12:57:45 Event: type 1, code 28, value 1
+[*] 12:57:45 Event: type 1, code 28, value 0
+[*] 12:57:45 Event: type 1, code 28, value 1
+[*] 12:57:45 Event: type 1, code 28, value 0
+[*] 12:57:46 Event: type 1, code 28, value 1
+[*] 12:57:46 Event: type 1, code 29, value 1
+[*] 12:57:46 Executed command: echo Hello World
+[*] 12:57:46 Event: type 1, code 28, value 0
+[*] 12:57:46 Event: type 1, code 29, value 0
+[*] 12:57:47 Event: type 1, code 29, value 1
+[*] 12:57:47 Event: type 1, code 28, value 1
+[*] 12:57:47 Executed command: echo Hello World
+[*] 12:57:47 Event: type 1, code 29, value 0
+[*] 12:57:47 Event: type 1, code 28, value 0
+[*] 12:57:48 Event: type 1, code 29, value 1
+[*] 12:57:48 Event: type 1, code 28, value 1
+[*] 12:57:48 Executed command: echo Hello World
+[*] 12:57:48 Event: type 1, code 28, value 0
+[*] 12:57:48 Event: type 1, code 29, value 0
+[*] 12:57:48 Event: type 1, code 29, value 1
+[*] 12:57:48 Event: type 1, code 28, value 1
+[*] 12:57:48 Executed command: echo Hello World
+[*] 12:57:48 Event: type 1, code 29, value 0
+[*] 12:57:48 Event: type 1, code 28, value 0
+[*] 12:57:48 Event: type 1, code 29, value 1
+[*] 12:57:48 Event: type 1, code 46, value 1
+[*] 13:2:0 Cache has been reloaded
+[*] 13:2:0 Using device: /dev/input/event26
+[*] 13:2:5 Executed command: echo Hello World
+[*] 13:2:6 Executed command: echo Hello World
+[*] 13:2:6 Executed command: echo Hello World
+[*] 13:2:6 Executed command: echo Hello World
+[*] 13:2:6 Executed command: echo Hello World
+[*] 13:2:7 Executed command: echo Hello World
+[*] 13:2:7 Executed command: echo Hello World
+[*] 13:2:7 Executed command: echo Hello World
+[*] 13:2:8 Executed command: echo Hello World
+[*] 13:2:8 Executed command: echo Hello World
+[*] 13:2:8 Executed command: echo Hello World
+[*] 13:2:8 Executed command: echo Hello World
+[*] 13:2:8 Executed command: echo Hello World
+[*] 13:2:8 Executed command: echo Hello World
+[*] 13:2:8 Executed command: echo Hello World
+[*] 13:2:8 Executed command: echo Hello World
+[*] 13:2:8 Executed command: echo Hello World
+[*] 13:2:8 Executed command: echo Hello World
+[*] 13:2:8 Executed command: echo Hello World
+[*] 13:2:8 Executed command: echo Hello World
+[*] 13:2:8 Executed command: echo Hello World
+[*] 13:2:9 Executed command: echo Hello World
+[*] 13:2:10 Executed command: echo Hello World
+[*] 13:2:10 Executed command: echo Hello World
+[*] 13:2:10 Executed command: echo Hello World
+[*] 13:2:10 Executed command: echo Hello World
+[*] 13:2:10 Executed command: echo Hello World
+[*] 13:2:10 Executed command: echo Hello World
+[*] 13:2:10 Executed command: echo Hello World
+[*] 13:2:15 Executed command: echo Hello World
+[*] 13:2:16 Executed command: echo Hello World
+[*] 13:2:16 Executed command: echo Hello World
+[*] 13:2:16 Executed command: echo Hello World
+[*] 13:31:8 Cache has been reloaded
+[*] 13:31:8 Using device: /dev/input/event26
+[*] 13:31:12 Executed command: playerctl play-pause
+[*] 13:31:20 Executed command: playerctl next
+[*] 13:31:21 Executed command: playerctl next
+[*] 13:31:21 Executed command: playerctl previous
+[*] 13:31:23 Executed command: playerctl play-pause
+[*] 13:31:23 Executed command: playerctl play-pause
+[*] 13:31:30 Cache has been reloaded
+[*] 13:31:30 Using device: /dev/input/event26
+[*] 13:31:31 Executed command: playerctl play-pause
+[*] 13:31:31 Executed command: playerctl play-pause
+[*] 13:31:32 Executed command: playerctl next
+[*] 13:31:45 Executed command: playerctl next
+[*] 13:31:48 Executed command: playerctl next
+[*] 13:31:49 Executed command: playerctl next
+[*] 13:31:49 Executed command: playerctl next
+[*] 13:31:49 Executed command: playerctl next
+[*] 13:31:49 Executed command: playerctl next
+[*] 13:31:50 Executed command: playerctl next
+[*] 13:31:50 Executed command: playerctl next
+[*] 13:31:50 Executed command: playerctl next
+[*] 13:31:50 Executed command: playerctl previous
+[*] 13:31:50 Executed command: playerctl previous
+[*] 13:31:50 Executed command: playerctl previous
+[*] 13:31:51 Executed command: playerctl play-pause
+[*] 13:31:51 Executed command: playerctl play-pause
+[*] 13:31:51 Executed command: playerctl play-pause
+[*] 13:31:51 Executed command: playerctl play-pause
+[*] 13:31:51 Executed command: playerctl play-pause
+[*] 13:31:51 Executed command: playerctl play-pause
+[*] 13:31:52 Executed command: playerctl play-pause
+[*] 13:31:52 Executed command: playerctl next
+[*] 13:31:52 Executed command: playerctl next
+[*] 13:31:52 Executed command: playerctl next
+[*] 13:31:52 Executed command: playerctl next
+[*] 13:31:53 Executed command: playerctl next
+[*] 13:31:53 Executed command: playerctl previous
+[*] 13:31:53 Executed command: playerctl previous
+[*] 13:31:53 Executed command: playerctl next
+[*] 13:31:53 Executed command: playerctl previous
+[*] 13:31:53 Executed command: playerctl next
+[*] 13:31:53 Executed command: playerctl previous
+[*] 13:31:53 Executed command: playerctl next
+[*] 13:31:53 Executed command: playerctl previous
+[*] 13:31:53 Executed command: playerctl previous
+[*] 13:31:53 Executed command: playerctl previous
+[*] 13:31:54 Executed command: playerctl next
+[*] 13:31:54 Executed command: playerctl previous
+[*] 13:31:54 Executed command: playerctl next
+[*] 13:31:54 Executed command: playerctl previous
+[*] 13:31:54 Executed command: playerctl next
+[*] 13:31:54 Executed command: playerctl previous
+[*] 13:31:54 Executed command: playerctl next
